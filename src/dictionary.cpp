@@ -1,4 +1,4 @@
-#include "dictionary.hpp"
+#include "../include/dictionary.hpp"
 
 // Function to load the dictionary from the wordlist.txt file
 set<string> loadDictionary(const string &filename)

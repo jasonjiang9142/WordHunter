@@ -1,4 +1,4 @@
-#include "grid.hpp"
+#include "../include/grid.hpp"
 
 // initialize a map to map the frequency of the letters
 const map<char, double> letter_frequency = {
