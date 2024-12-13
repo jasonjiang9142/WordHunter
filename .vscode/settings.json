@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "tuple": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "map": "cpp",
+        "__locale": "cpp",
+        "ios": "cpp",
+        "set": "cpp"
+    }
+}
