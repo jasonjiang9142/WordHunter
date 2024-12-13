@@ -89,3 +89,38 @@ vector<vector<char>> createGrid(int gridSize)
 
     return grid;
 }
+
+// Function to print the grid
+void printGrid(const vector<vector<char>> &grid)
+{
+    // Print the top row with column indices
+
+    // Print the separator line after the column indices
+    cout << "    ";
+    for (int col = 0; col < grid[0].size(); ++col)
+    {
+        cout << "----"; // Draw the horizontal line
+    }
+    cout << endl;
+
+    // Loop through each row and print the grid
+    for (int row = 0; row < grid.size(); ++row)
+    {
+        cout << setw(3) << row; // Print the row index on the left
+
+        // Print the grid content in each cell
+        for (int col = 0; col < grid[row].size(); ++col)
+        {
+            cout << "| " << grid[row][col] << " "; // Print each cell with a border
+        }
+        cout << "|" << endl; // Close the row with a vertical border
+
+        // Print the separator line after each row
+        cout << "    ";
+        for (int col = 0; col < grid[0].size(); ++col)
+        {
+            cout << "----"; // Draw the horizontal line
+        }
+        cout << endl;
+    }
+}

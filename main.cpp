@@ -2,71 +2,13 @@
 #include <chrono>
 #include <thread>
 #include <set>
-#include <fstream>
 #include <string>
 #include <algorithm> // For std::transform
 #include <cctype>    // For ::tolower
 #include "grid.hpp"
+#include "dictionary.hpp"
 
 // how to run it: g++ -std=c++11 main.cpp grid.cpp -o main
-
-using namespace std;
-
-// Function to load the dictionary from the wordlist.txt file
-set<string> loadDictionary(const string &filename)
-{
-    set<string> dictionary;
-    ifstream file(filename);
-
-    if (!file)
-    {
-        cerr << "Error opening dictionary file." << endl;
-        return dictionary;
-    }
-
-    string word;
-    transform(word.begin(), word.end(), word.begin(), ::tolower);
-    while (file >> word)
-    {
-        dictionary.insert(word); // Add each word to the set
-    }
-    return dictionary;
-}
-
-// Function to print the grid
-void printGrid(const vector<vector<char>> &grid)
-{
-    // Print the top row with column indices
-
-    // Print the separator line after the column indices
-    cout << "    ";
-    for (int col = 0; col < grid[0].size(); ++col)
-    {
-        cout << "----"; // Draw the horizontal line
-    }
-    cout << endl;
-
-    // Loop through each row and print the grid
-    for (int row = 0; row < grid.size(); ++row)
-    {
-        cout << setw(3) << row; // Print the row index on the left
-
-        // Print the grid content in each cell
-        for (int col = 0; col < grid[row].size(); ++col)
-        {
-            cout << "| " << grid[row][col] << " "; // Print each cell with a border
-        }
-        cout << "|" << endl; // Close the row with a vertical border
-
-        // Print the separator line after each row
-        cout << "    ";
-        for (int col = 0; col < grid[0].size(); ++col)
-        {
-            cout << "----"; // Draw the horizontal line
-        }
-        cout << endl;
-    }
-}
 
 bool recurse(vector<vector<char>> &grid, string word, int grid_size, int pointer, int row, int col, vector<vector<bool>> &visited)
 {
@@ -165,12 +107,16 @@ int main()
                         Rules!
 =============================================================
 
-[1] You are given a grid of letters. Your goal is to find as many words as possible from the grid.
-[2] Words can be formed by connecting adjacent letters in any direction: horizontally, vertically, or diagonally.
-[3] Words cannot be reused.
-[4] You can only form words that exist in the dictionary.
-[5] Each word you find earns you points based on its length.
-[6] You will have a limited amount of time to find as many words as possible.
+    [1] Your goal is to find as many words as possible from the grid of letters.
+    [2] Words can be formed by connecting adjacent letters in any direction: 
+            [a] horizontally
+            [b] vertically
+            [c] diagonally
+
+    [3] Words must be at least of size 3 and cannot be reused.
+    [4] You can only form words that exist in the dictionary.
+    [5] Each word you find earns you points based on its length.
+    [6] You will have a limited amount of time to find as many words as possible.
 
 Good luck and enjoy the hunt!
 
@@ -272,6 +218,12 @@ Please enter your choice (1, 2, or 3) : )";
             if (dictionary.find(input_word) == dictionary.end())
             {
                 cout << input_word << " is not a valid English word. Try again. \n";
+                continue;
+            }
+
+            else if (input_word.length() < 3)
+            {
+                cout << "You need a word of at least length 3. Try again. \n";
                 continue;
             }
 

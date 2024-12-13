@@ -3,7 +3,7 @@ CC = g++
 CFLAGS = -std=c++11
 
 # Source files and target
-SRC = main.cpp grid.cpp
+SRC = main.cpp grid.cpp dictionary.cpp
 EXEC = main
 
 # Default target
