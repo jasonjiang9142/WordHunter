@@ -72,6 +72,29 @@ Enter any key to start...
     return;
 }
 
+int choose_mode()
+{
+
+    int mode;
+    // Display a stylish UI with better formatting
+    cout << R"( 
+=============================================================
+                    Welcome to Word Hunt!
+=============================================================
+
+Choose between 3 difficulty modes (press CTRL-C to QUIT):
+   [1] Easy
+   [2] Medium
+   [3] Hard
+
+Please enter your choice (1, 2, or 3) : )";
+
+    cin >> mode;
+
+    return mode;
+}
+
+// prints the game play
 void play_game()
 {
     print_rules();
@@ -84,22 +107,8 @@ void play_game()
 
     while (true)
     {
-        int mode;
-
-        // Display a stylish UI with better formatting
-        cout << R"( 
-=============================================================
-                    Welcome to Word Hunt!
-=============================================================
-
-Choose between 3 difficulty modes (press CTRL-C to QUIT):
-   [1] Easy
-   [2] Medium
-   [3] Hard
-
-Please enter your choice (1, 2, or 3) : )";
-
-        cin >> mode;
+        // let the user choose the mode
+        int mode = choose_mode();
 
         int grid_size;
         int time_limit;
@@ -126,11 +135,10 @@ Please enter your choice (1, 2, or 3) : )";
             continue;
         }
 
+        // create the grid base in the mode
         vector<vector<char>> grid = createGrid(grid_size);
 
-        // start the game play-> displaying the time remaining, score, and the board
-
-        // intialize our timer
+        // intialize our timer and basic game variables
         auto start_time = chrono::high_resolution_clock::now();
         cout << "You have " << time_limit << " seconds to play!\n";
 
@@ -138,6 +146,7 @@ Please enter your choice (1, 2, or 3) : )";
         set<string> visited;
         vector<string> correct_words;
 
+        // keep iterating while a game is going on
         while (true)
         {
             // constantly checking the time
@@ -152,7 +161,6 @@ Please enter your choice (1, 2, or 3) : )";
             // check to see if there is still time left
             int time_left = time_limit - int(elapsed_time.count());
             if (time_left <= 0)
-
             {
                 print_results(current_score, correct_words);
                 break;
