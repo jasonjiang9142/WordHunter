@@ -1,0 +1,5 @@
+if(EXISTS "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test[1]_tests.cmake")
+  include("/Users/jasonjiang/Desktop/wordhunt/build/bfs_test[1]_tests.cmake")
+else()
+  add_test(bfs_test_NOT_BUILT bfs_test_NOT_BUILT)
+endif()

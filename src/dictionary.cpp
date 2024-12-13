@@ -13,9 +13,10 @@ set<string> loadDictionary(const string &filename)
     }
 
     string word;
-    transform(word.begin(), word.end(), word.begin(), ::tolower);
+
     while (file >> word)
     {
+        transform(word.begin(), word.end(), word.begin(), ::tolower);
         dictionary.insert(word); // Add each word to the set
     }
     return dictionary;

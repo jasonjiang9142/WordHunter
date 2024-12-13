@@ -191,8 +191,8 @@ void play_game()
             }
 
             // perform dfs and returns the new score
-            // int new_score = dfswrapper(grid, input_word, current_score, grid_size, visited);
-            int new_score = bfswrapper(grid, input_word, current_score, grid_size, visited);
+            int new_score = dfswrapper(grid, input_word, current_score, grid_size, visited);
+            // int new_score = bfswrapper(grid, input_word, current_score, grid_size, visited);
 
             // to see if we have new score
             if (new_score > current_score)

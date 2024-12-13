@@ -7,6 +7,8 @@
         "map": "cpp",
         "__locale": "cpp",
         "ios": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "string": "cpp",
+        "sstream": "cpp"
     }
 }

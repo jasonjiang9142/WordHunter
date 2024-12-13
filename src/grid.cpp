@@ -26,6 +26,7 @@ char getLetter()
 
         return 'e';
     }
+    return 'e';
 };
 
 // creating a function to generate grid
@@ -123,4 +124,6 @@ void printGrid(const vector<vector<char>> &grid)
         }
         cout << endl;
     }
+
+    return;
 }

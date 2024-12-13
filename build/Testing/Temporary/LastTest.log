@@ -1,0 +1,856 @@
+Start testing: Dec 13 15:47 EST
+----------------------------------------------------------
+1/31 Testing: GridTest.GridSizeTest
+1/31 Test: GridTest.GridSizeTest
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/grid_test" "--gtest_filter=GridTest.GridSizeTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"GridTest.GridSizeTest" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GridTest.GridSizeTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GridTest
+[ RUN      ] GridTest.GridSizeTest
+[       OK ] GridTest.GridSizeTest (0 ms)
+[----------] 1 test from GridTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GridTest.GridSizeTest" end time: Dec 13 15:47 EST
+"GridTest.GridSizeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/31 Testing: GridTest.GridContainsValidLetters
+2/31 Test: GridTest.GridContainsValidLetters
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/grid_test" "--gtest_filter=GridTest.GridContainsValidLetters" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"GridTest.GridContainsValidLetters" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GridTest.GridContainsValidLetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GridTest
+[ RUN      ] GridTest.GridContainsValidLetters
+[       OK ] GridTest.GridContainsValidLetters (0 ms)
+[----------] 1 test from GridTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GridTest.GridContainsValidLetters" end time: Dec 13 15:47 EST
+"GridTest.GridContainsValidLetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/31 Testing: GridTest.BigramsPlacementTest
+3/31 Test: GridTest.BigramsPlacementTest
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/grid_test" "--gtest_filter=GridTest.BigramsPlacementTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"GridTest.BigramsPlacementTest" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GridTest.BigramsPlacementTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GridTest
+[ RUN      ] GridTest.BigramsPlacementTest
+[       OK ] GridTest.BigramsPlacementTest (0 ms)
+[----------] 1 test from GridTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GridTest.BigramsPlacementTest" end time: Dec 13 15:47 EST
+"GridTest.BigramsPlacementTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/31 Testing: GridTest.TrigramsPlacementTest
+4/31 Test: GridTest.TrigramsPlacementTest
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/grid_test" "--gtest_filter=GridTest.TrigramsPlacementTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"GridTest.TrigramsPlacementTest" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GridTest.TrigramsPlacementTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GridTest
+[ RUN      ] GridTest.TrigramsPlacementTest
+[       OK ] GridTest.TrigramsPlacementTest (0 ms)
+[----------] 1 test from GridTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GridTest.TrigramsPlacementTest" end time: Dec 13 15:47 EST
+"GridTest.TrigramsPlacementTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/31 Testing: GridTest.NonEmptyGridTest
+5/31 Test: GridTest.NonEmptyGridTest
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/grid_test" "--gtest_filter=GridTest.NonEmptyGridTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"GridTest.NonEmptyGridTest" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GridTest.NonEmptyGridTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GridTest
+[ RUN      ] GridTest.NonEmptyGridTest
+[       OK ] GridTest.NonEmptyGridTest (0 ms)
+[----------] 1 test from GridTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GridTest.NonEmptyGridTest" end time: Dec 13 15:47 EST
+"GridTest.NonEmptyGridTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/31 Testing: GridTest.DifferentGridSizeTest
+6/31 Test: GridTest.DifferentGridSizeTest
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/grid_test" "--gtest_filter=GridTest.DifferentGridSizeTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"GridTest.DifferentGridSizeTest" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GridTest.DifferentGridSizeTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GridTest
+[ RUN      ] GridTest.DifferentGridSizeTest
+[       OK ] GridTest.DifferentGridSizeTest (0 ms)
+[----------] 1 test from GridTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GridTest.DifferentGridSizeTest" end time: Dec 13 15:47 EST
+"GridTest.DifferentGridSizeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/31 Testing: DictionaryTest.LoadDictionaryValidFile
+7/31 Test: DictionaryTest.LoadDictionaryValidFile
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dictionary_test" "--gtest_filter=DictionaryTest.LoadDictionaryValidFile" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DictionaryTest.LoadDictionaryValidFile" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DictionaryTest.LoadDictionaryValidFile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DictionaryTest
+[ RUN      ] DictionaryTest.LoadDictionaryValidFile
+[       OK ] DictionaryTest.LoadDictionaryValidFile (0 ms)
+[----------] 1 test from DictionaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DictionaryTest.LoadDictionaryValidFile" end time: Dec 13 15:47 EST
+"DictionaryTest.LoadDictionaryValidFile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/31 Testing: DictionaryTest.LoadDictionaryFileNotFound
+8/31 Test: DictionaryTest.LoadDictionaryFileNotFound
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dictionary_test" "--gtest_filter=DictionaryTest.LoadDictionaryFileNotFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DictionaryTest.LoadDictionaryFileNotFound" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DictionaryTest.LoadDictionaryFileNotFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DictionaryTest
+[ RUN      ] DictionaryTest.LoadDictionaryFileNotFound
+Error opening dictionary file.
+[       OK ] DictionaryTest.LoadDictionaryFileNotFound (0 ms)
+[----------] 1 test from DictionaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DictionaryTest.LoadDictionaryFileNotFound" end time: Dec 13 15:47 EST
+"DictionaryTest.LoadDictionaryFileNotFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/31 Testing: DictionaryTest.LoadDictionaryEmptyFile
+9/31 Test: DictionaryTest.LoadDictionaryEmptyFile
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dictionary_test" "--gtest_filter=DictionaryTest.LoadDictionaryEmptyFile" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DictionaryTest.LoadDictionaryEmptyFile" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DictionaryTest.LoadDictionaryEmptyFile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DictionaryTest
+[ RUN      ] DictionaryTest.LoadDictionaryEmptyFile
+[       OK ] DictionaryTest.LoadDictionaryEmptyFile (0 ms)
+[----------] 1 test from DictionaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DictionaryTest.LoadDictionaryEmptyFile" end time: Dec 13 15:47 EST
+"DictionaryTest.LoadDictionaryEmptyFile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/31 Testing: DictionaryTest.LoadDictionaryCaseInsensitivity
+10/31 Test: DictionaryTest.LoadDictionaryCaseInsensitivity
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dictionary_test" "--gtest_filter=DictionaryTest.LoadDictionaryCaseInsensitivity" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DictionaryTest.LoadDictionaryCaseInsensitivity" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DictionaryTest.LoadDictionaryCaseInsensitivity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DictionaryTest
+[ RUN      ] DictionaryTest.LoadDictionaryCaseInsensitivity
+[       OK ] DictionaryTest.LoadDictionaryCaseInsensitivity (0 ms)
+[----------] 1 test from DictionaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DictionaryTest.LoadDictionaryCaseInsensitivity" end time: Dec 13 15:47 EST
+"DictionaryTest.LoadDictionaryCaseInsensitivity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/31 Testing: BfsTest.TestBfsWordFound
+11/31 Test: BfsTest.TestBfsWordFound
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsTest.TestBfsWordFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsTest.TestBfsWordFound" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsTest.TestBfsWordFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsTest
+[ RUN      ] BfsTest.TestBfsWordFound
+[       OK ] BfsTest.TestBfsWordFound (0 ms)
+[----------] 1 test from BfsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsTest.TestBfsWordFound" end time: Dec 13 15:47 EST
+"BfsTest.TestBfsWordFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/31 Testing: BfsTest.TestBfsWordNotFound
+12/31 Test: BfsTest.TestBfsWordNotFound
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsTest.TestBfsWordNotFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsTest.TestBfsWordNotFound" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsTest.TestBfsWordNotFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsTest
+[ RUN      ] BfsTest.TestBfsWordNotFound
+[       OK ] BfsTest.TestBfsWordNotFound (0 ms)
+[----------] 1 test from BfsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsTest.TestBfsWordNotFound" end time: Dec 13 15:47 EST
+"BfsTest.TestBfsWordNotFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/31 Testing: BfsTest.TestBfsEmptyGrid
+13/31 Test: BfsTest.TestBfsEmptyGrid
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsTest.TestBfsEmptyGrid" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsTest.TestBfsEmptyGrid" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsTest.TestBfsEmptyGrid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsTest
+[ RUN      ] BfsTest.TestBfsEmptyGrid
+[       OK ] BfsTest.TestBfsEmptyGrid (0 ms)
+[----------] 1 test from BfsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsTest.TestBfsEmptyGrid" end time: Dec 13 15:47 EST
+"BfsTest.TestBfsEmptyGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/31 Testing: BfsTest.TestBfsSingleCellGrid
+14/31 Test: BfsTest.TestBfsSingleCellGrid
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsTest.TestBfsSingleCellGrid" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsTest.TestBfsSingleCellGrid" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsTest.TestBfsSingleCellGrid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsTest
+[ RUN      ] BfsTest.TestBfsSingleCellGrid
+[       OK ] BfsTest.TestBfsSingleCellGrid (0 ms)
+[----------] 1 test from BfsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsTest.TestBfsSingleCellGrid" end time: Dec 13 15:47 EST
+"BfsTest.TestBfsSingleCellGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/31 Testing: BfsTest.TestBfsSameLetterGrid
+15/31 Test: BfsTest.TestBfsSameLetterGrid
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsTest.TestBfsSameLetterGrid" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsTest.TestBfsSameLetterGrid" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsTest.TestBfsSameLetterGrid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsTest
+[ RUN      ] BfsTest.TestBfsSameLetterGrid
+[       OK ] BfsTest.TestBfsSameLetterGrid (0 ms)
+[----------] 1 test from BfsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsTest.TestBfsSameLetterGrid" end time: Dec 13 15:47 EST
+"BfsTest.TestBfsSameLetterGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/31 Testing: BfsWrapperTest.TestBfsWrapperValidWord
+16/31 Test: BfsWrapperTest.TestBfsWrapperValidWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsWrapperTest.TestBfsWrapperValidWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsWrapperTest.TestBfsWrapperValidWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsWrapperTest.TestBfsWrapperValidWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsWrapperTest
+[ RUN      ] BfsWrapperTest.TestBfsWrapperValidWord
+Valid Word!
+[       OK ] BfsWrapperTest.TestBfsWrapperValidWord (0 ms)
+[----------] 1 test from BfsWrapperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsWrapperTest.TestBfsWrapperValidWord" end time: Dec 13 15:47 EST
+"BfsWrapperTest.TestBfsWrapperValidWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/31 Testing: BfsWrapperTest.TestBfsWrapperInvalidWord
+17/31 Test: BfsWrapperTest.TestBfsWrapperInvalidWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsWrapperTest.TestBfsWrapperInvalidWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsWrapperTest.TestBfsWrapperInvalidWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsWrapperTest.TestBfsWrapperInvalidWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsWrapperTest
+[ RUN      ] BfsWrapperTest.TestBfsWrapperInvalidWord
+Invalid Word! Try Again
+[       OK ] BfsWrapperTest.TestBfsWrapperInvalidWord (0 ms)
+[----------] 1 test from BfsWrapperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsWrapperTest.TestBfsWrapperInvalidWord" end time: Dec 13 15:47 EST
+"BfsWrapperTest.TestBfsWrapperInvalidWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/31 Testing: BfsWrapperTest.TestBfsWrapperEmptyWord
+18/31 Test: BfsWrapperTest.TestBfsWrapperEmptyWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsWrapperTest.TestBfsWrapperEmptyWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsWrapperTest.TestBfsWrapperEmptyWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsWrapperTest.TestBfsWrapperEmptyWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsWrapperTest
+[ RUN      ] BfsWrapperTest.TestBfsWrapperEmptyWord
+No input. Try again.
+[       OK ] BfsWrapperTest.TestBfsWrapperEmptyWord (0 ms)
+[----------] 1 test from BfsWrapperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsWrapperTest.TestBfsWrapperEmptyWord" end time: Dec 13 15:47 EST
+"BfsWrapperTest.TestBfsWrapperEmptyWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/31 Testing: BfsWrapperTest.TestBfsWrapperWordAlreadyFound
+19/31 Test: BfsWrapperTest.TestBfsWrapperWordAlreadyFound
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/bfs_test" "--gtest_filter=BfsWrapperTest.TestBfsWrapperWordAlreadyFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"BfsWrapperTest.TestBfsWrapperWordAlreadyFound" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BfsWrapperTest.TestBfsWrapperWordAlreadyFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BfsWrapperTest
+[ RUN      ] BfsWrapperTest.TestBfsWrapperWordAlreadyFound
+Word already found! Try another word. [       OK ] BfsWrapperTest.TestBfsWrapperWordAlreadyFound (0 ms)
+[----------] 1 test from BfsWrapperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BfsWrapperTest.TestBfsWrapperWordAlreadyFound" end time: Dec 13 15:47 EST
+"BfsWrapperTest.TestBfsWrapperWordAlreadyFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/31 Testing: DFSWrappersTest.TestValidWord
+20/31 Test: DFSWrappersTest.TestValidWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestValidWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestValidWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestValidWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestValidWord
+Valid Word!
+[       OK ] DFSWrappersTest.TestValidWord (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestValidWord" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestValidWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/31 Testing: DFSWrappersTest.TestWordAlreadyFound
+21/31 Test: DFSWrappersTest.TestWordAlreadyFound
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestWordAlreadyFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestWordAlreadyFound" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestWordAlreadyFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestWordAlreadyFound
+Word already found! Try another word. [       OK ] DFSWrappersTest.TestWordAlreadyFound (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestWordAlreadyFound" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestWordAlreadyFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/31 Testing: DFSWrappersTest.TestEmptyWord
+22/31 Test: DFSWrappersTest.TestEmptyWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestEmptyWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestEmptyWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestEmptyWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestEmptyWord
+No input. Try again.
+[       OK ] DFSWrappersTest.TestEmptyWord (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestEmptyWord" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestEmptyWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/31 Testing: DFSWrappersTest.TestInvalidWord
+23/31 Test: DFSWrappersTest.TestInvalidWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestInvalidWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestInvalidWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestInvalidWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestInvalidWord
+Invalid Word! Try Again 
+[       OK ] DFSWrappersTest.TestInvalidWord (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestInvalidWord" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestInvalidWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/31 Testing: DFSWrappersTest.TestMultipleWords
+24/31 Test: DFSWrappersTest.TestMultipleWords
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestMultipleWords" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestMultipleWords" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestMultipleWords
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestMultipleWords
+Valid Word!
+Valid Word!
+Word already found! Try another word. [       OK ] DFSWrappersTest.TestMultipleWords (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestMultipleWords" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestMultipleWords" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/31 Testing: DFSWrappersTest.TestWordTooLong
+25/31 Test: DFSWrappersTest.TestWordTooLong
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestWordTooLong" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestWordTooLong" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestWordTooLong
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestWordTooLong
+Invalid Word! Try Again 
+[       OK ] DFSWrappersTest.TestWordTooLong (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestWordTooLong" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestWordTooLong" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/31 Testing: DFSWrappersTest.TestSingleLetterWord
+26/31 Test: DFSWrappersTest.TestSingleLetterWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestSingleLetterWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestSingleLetterWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestSingleLetterWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestSingleLetterWord
+Valid Word!
+[       OK ] DFSWrappersTest.TestSingleLetterWord (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestSingleLetterWord" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestSingleLetterWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/31 Testing: DFSWrappersTest.TestWordNotOnGrid
+27/31 Test: DFSWrappersTest.TestWordNotOnGrid
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestWordNotOnGrid" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestWordNotOnGrid" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestWordNotOnGrid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestWordNotOnGrid
+Invalid Word! Try Again 
+[       OK ] DFSWrappersTest.TestWordNotOnGrid (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestWordNotOnGrid" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestWordNotOnGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/31 Testing: DFSWrappersTest.TestRepeatedLetters
+28/31 Test: DFSWrappersTest.TestRepeatedLetters
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestRepeatedLetters" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestRepeatedLetters" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestRepeatedLetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestRepeatedLetters
+Invalid Word! Try Again 
+[       OK ] DFSWrappersTest.TestRepeatedLetters (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestRepeatedLetters" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestRepeatedLetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/31 Testing: DFSWrappersTest.TestGridWithDuplicates
+29/31 Test: DFSWrappersTest.TestGridWithDuplicates
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestGridWithDuplicates" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestGridWithDuplicates" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestGridWithDuplicates
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestGridWithDuplicates
+Valid Word!
+[       OK ] DFSWrappersTest.TestGridWithDuplicates (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestGridWithDuplicates" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestGridWithDuplicates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/31 Testing: DFSWrappersTest.TestDifferentGridSize
+30/31 Test: DFSWrappersTest.TestDifferentGridSize
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestDifferentGridSize" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestDifferentGridSize" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestDifferentGridSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestDifferentGridSize
+Valid Word!
+[       OK ] DFSWrappersTest.TestDifferentGridSize (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestDifferentGridSize" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestDifferentGridSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/31 Testing: DFSWrappersTest.TestDiagonalWord
+31/31 Test: DFSWrappersTest.TestDiagonalWord
+Command: "/Users/jasonjiang/Desktop/wordhunt/build/dfs_test" "--gtest_filter=DFSWrappersTest.TestDiagonalWord" "--gtest_also_run_disabled_tests"
+Directory: /Users/jasonjiang/Desktop/wordhunt/build
+"DFSWrappersTest.TestDiagonalWord" start time: Dec 13 15:47 EST
+Output:
+----------------------------------------------------------
+Running main() from /Users/jasonjiang/Desktop/wordhunt/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DFSWrappersTest.TestDiagonalWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DFSWrappersTest
+[ RUN      ] DFSWrappersTest.TestDiagonalWord
+Valid Word!
+[       OK ] DFSWrappersTest.TestDiagonalWord (0 ms)
+[----------] 1 test from DFSWrappersTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DFSWrappersTest.TestDiagonalWord" end time: Dec 13 15:47 EST
+"DFSWrappersTest.TestDiagonalWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 13 15:47 EST

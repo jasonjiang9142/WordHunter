@@ -1,0 +1,5 @@
+if(EXISTS "/Users/jasonjiang/Desktop/wordhunt/build/dictionary_test[1]_tests.cmake")
+  include("/Users/jasonjiang/Desktop/wordhunt/build/dictionary_test[1]_tests.cmake")
+else()
+  add_test(dictionary_test_NOT_BUILT dictionary_test_NOT_BUILT)
+endif()
