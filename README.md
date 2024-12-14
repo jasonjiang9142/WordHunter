@@ -35,6 +35,18 @@
 - **Google Test (GTest)** for testing.  
 - Recursive algorithms (DFS, BFS) to ensure efficient and accurate gameplay.  
 
+## Preview
+<p align="center" width="100%">
+  <img src="preview/Preview1.png" width="60%"/>
+  <img src="preview/Preview2.png" width="60%"/>
+</p>
+
+<p align="center" width="100%">
+  <img src="preview/Preview3.png" width="48%"/>
+  <img src="preview/Preview4.png" width="48%"/>
+</p>
+
+
 ## Installation
 
 1. Clone the repository:  
