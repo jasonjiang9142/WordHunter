@@ -1,4 +1,7 @@
 # Word Hunter
+![License](https://img.shields.io/badge/license-MIT-green)
+![Docs](https://img.shields.io/badge/docs-read-blue)
+![Repo Size](https://img.shields.io/badge/repo%20size-824%20KiB-blue)
 
 **Word Hunter** is an engaging word-finding game where players compete against time to discover as many words as possible from a grid of letters. Sharpen your vocabulary, speed, and strategic thinking while enjoying the challenge!
 
