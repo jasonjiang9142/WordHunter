@@ -47,6 +47,11 @@
   <img src="preview/Preview4.png" width="48%"/>
 </p>
 
+## Demo Video
+
+[![YouTube Video](https://img.youtube.com/vi/YcC6GJFzdjM/0.jpg)](https://youtu.be/YcC6GJFzdjM)
+
+Click the image to watch the demo video on YouTube.
 
 ## Installation
 
